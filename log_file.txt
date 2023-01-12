@@ -1,0 +1,4 @@
+23:32 User input: 25 + 3
+23:32 Result of calculations is: (28+0j)
+23:37 User input: 54 + 68
+23:37 Result of calculations is: (122+0j)
